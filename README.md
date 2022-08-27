@@ -1,2 +1,2 @@
 # hello-world
-example hello world file
+example hello world
